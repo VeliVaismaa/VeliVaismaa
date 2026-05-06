@@ -15,7 +15,14 @@ GitHub on minulle kirjasto — täältä löydän omaan toimintaan elävät pien
 
 ## Tekniset työkalut
 
-`QGIS` · `Python` · `Reaper` · `Logic Pro` · `Affinity Photo` · `Canva` · `WordPress` · `Publer` · `Claude` · `ChatGPT` · `Ideogram`
+ **AI & paikalliset mallit:** `Claude` · `Claude Code` · `ChatGPT` · `Ollama` · `Gemma4'
+- **DevOps & itsehostaus:** `Docker` ·  `PostgreSQL` ·  `Twenty CRM` 
+- **Koodi & editorit:** `VS Code` · `Git` · `GitHub`
+- **Paikkatieto:** `QGIS` · `FinBIF API` · `OpenStreetMap`
+- **Audio & musiikki:** `REAPER` · `Logic Pro` · `MuseScore` 
+- **Video & kuva:** `DaVinci Resolve` · `Affinity Photo` · `Canva` · `OBS`
+- **Web & julkaisu:** `WordPress` 
+- **Tieto & kirjoitus:** `Obsidian` 
 
 ## Kielet
 
