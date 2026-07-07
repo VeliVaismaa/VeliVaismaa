@@ -1,4 +1,4 @@
-# ¡Hola! – Hei – moi – hello 👋
+# Hei! – Hello! – ¡Hola!  👋
 
 Olen **Veli Jussi Vaismaa** – oululainen luonto-opas, muusikko ja FM (tietojenkäsittely). Rakennan kahta palvelua, joissa luonto, kulttuuri, paikkatieto ja perinnetieto kohtaavat. Tekemistä on todella vaikea rajata yhteen sektoriin: **[OuluNature.fi](https://oulunature.fi)** (luonto-opastus, paikkatieto, kartat ja hyvinvointi) ja **[VeliVaismaa.fi](https://velivaismaa.fi)** (musiikki, perinnekupletit, yhteisötaide).
 
